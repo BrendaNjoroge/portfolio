@@ -3,7 +3,7 @@
 #### By **Brenda Njoroge**
 ## Description
 This portfolio shares information about me. It includes my job experience, education background, hobbies and interests, projects I have worked on as well as my resume.
-## Setup/Installation Requirements
+## Project Setup Instructions
 * To view my portfolio click following link - 
 * To view the projects on the portolio click the links provided under the Projects section.
 * To view my resume click following link - 
