@@ -2,11 +2,11 @@
 #### Online Portfolio for Brenda Njeri Njoroge, 5th November 2021
 #### By **Brenda Njoroge**
 ## Description
-This portfolio shares information about Brenda Njeri Njoroge, it includes her job experience, education background, hobbies and interests, projects she has worked on as well as her resume.
+This portfolio shares information about me. It includes my job experience, education background, hobbies and interests, projects I have worked on as well as my resume.
 ## Setup/Installation Requirements
-* To view her portfolio click following link - 
-* To view the projects on her portolio click the links under the Projects section.
-* To view her resume click following link - 
+* To view my portfolio click following link - 
+* To view the projects on the portolio click the links provided under the Projects section.
+* To view my resume click following link - 
 
 ## Known Bugs
 No known bugs at the moment, should update if this changes.
