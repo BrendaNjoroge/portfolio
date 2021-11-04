@@ -12,6 +12,9 @@ h1 {
     font-family: 'Zen Antique Soft', serif;
    
 }
+span {
+    font-style: italic;
+}
 
 img {
     width: 300px;
