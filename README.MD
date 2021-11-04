@@ -4,9 +4,9 @@
 ## Description
 This portfolio shares information about me. It includes my job experience, education background, hobbies and interests, projects I have worked on as well as my resume.
 ## Project Setup Instructions
-* To view my portfolio click following link - 
+* To view my portfolio click following link - https://brendanjoroge.github.io/portfolio/
 * To view the projects on the portolio click the links provided under the Projects section.
-* To view my resume click following link - 
+* To view my resume click following link - https://brendanjoroge.github.io/Resume/
 
 ## Known Bugs
 No known bugs at the moment, should update if this changes.
